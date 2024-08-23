@@ -28,7 +28,7 @@ al fuego cotidiano
 <br>
 <br>
 
-## [Verano](post/verano/index.qmd)
+## [Verano](posts/verano/index.qmd)
 
 Cortar el pasto, tanza punto 25 milímetros
 
@@ -39,3 +39,7 @@ Bajo el sol de diciembre. Llegan los ladridos abandonados
 De los perros a través de los pastizales
 
 Coronados de pequeñas flores blancas.
+
+
+
+
