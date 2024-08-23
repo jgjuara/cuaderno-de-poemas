@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Cuaderno de poemas de Juan G. Juara"
+  navbar:
+    search: true
+    right:
+      - text: "Índice"
+        href: indice.qmd
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+editor: source
+

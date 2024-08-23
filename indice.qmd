@@ -1,0 +1,7 @@
+---
+title: ""
+page-layout: full
+title-block-banner: true
+listing:
+  contents: posts
+---

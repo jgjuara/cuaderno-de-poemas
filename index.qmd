@@ -1,0 +1,41 @@
+---
+title: ""
+page-layout: full
+title-block-banner: true
+---
+
+## [una mano que levante la mía](posts/una-mano-que-levante-la-mia/index.qmd)
+
+una mano que levante la mía
+
+y me guíe por la noche
+
+a través del lejano tintineo
+
+hasta el abrigo de la cama 
+
+<br>
+<br>
+
+una mano que me guíe
+
+por la noche extranjera
+
+y me acerque al hogar familiar
+
+al fuego cotidiano
+
+<br>
+<br>
+
+## [Verano](post/verano/index.qmd)
+
+Cortar el pasto, tanza punto 25 milímetros
+
+Avanzando paso a paso como una guadaña
+
+Bajo el sol de diciembre. Llegan los ladridos abandonados
+
+De los perros a través de los pastizales
+
+Coronados de pequeñas flores blancas.
