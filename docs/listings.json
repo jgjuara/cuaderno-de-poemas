@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/una-mano-que-levante-la-mia/index.html",
+      "/posts/verano/verano.html"
+    ]
+  },
+  {
+    "listing": "/indice.html",
+    "items": [
+      "/posts/verano/index.html",
+      "/posts/una-mano-que-levante-la-mia/index.html"
+    ]
+  }
+]
